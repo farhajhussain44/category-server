@@ -1,0 +1,5 @@
+{
+    "name":"server",
+    "script":"npm start",
+    "watch": "true"
+}
